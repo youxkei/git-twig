@@ -1,0 +1,12 @@
+[package]
+name = "git-twig"
+version = "0.1.0"
+edition = "2021"
+authors = ["youxkei <youxkei@gmail.com>"]
+license = "CC0 1.0"
+repository = "https://github.com/youxkei/git-twig"
+
+[dependencies]
+once_cell = "1.18.0"
+semver = "1.0.17"
+structopt = "0.3.26"
